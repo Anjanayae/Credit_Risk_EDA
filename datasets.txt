@@ -1,0 +1,2 @@
+1) previous_applications.csv : https://www.kaggle.com/datasets/ramakrushnamohapatra/previous-and-columns-data?select=previous_application.csv
+2) application_data.csv : https://www.kaggle.com/datasets/ramakrushnamohapatra/loan-application-dataset
